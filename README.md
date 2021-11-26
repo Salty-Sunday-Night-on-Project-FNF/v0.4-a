@@ -1,5 +1,4 @@
 
-![Discord](https://img.shields.io/discord/826580018346852372?color=7289da&icon=discord&label=Discord&logoColor=%234e5d94&style=for-the-badge&icon=disc)(https://discord.gg/fmxuXhRqMU) 
 [![Version](https://img.shields.io/github/v/release/aflacc/ProjectFNF?label=Release&style=for-the-badge)](https://github.com/aflacc/ProjectFNF/releases) 
 [![GitHub pre-release](https://img.shields.io/github/release-pre/aflacc/ProjectFNF?label=beta&style=for-the-badge)](https://github.com/aflacc/ProjectFNF/releases/latest)
 [![Updated](https://img.shields.io/github/last-commit/aflacc/ProjectFNF?label=Updated&style=for-the-badge)](https://github.com/aflacc/ProjectFNF/commits/master) 
@@ -19,7 +18,7 @@
 <div align="center">Quality of Life & Highly Compatibile Engine</div>
 
 # About
-ProjectFNF is a engine for Friday Night Funkin' designed to be flexible. It contains a few quality of life enhancements along with a whole [wiki](https://github.com/aflacc/ProjectFNF/wiki) which can help the user make their own mod. To Begin coding with ProjectFNF, follow this guide I created [Here](https://github.com/aflacc/ProjectFNF/wiki/Setup-Workspace). Interested in trying the beta? Click [here](https://github.com/aflacc/ProjectFNF/blob/master/beta.md)
+ProjectFNF is a engine for Friday Night Funkin' designed to be flexible. It contains a few quality of life enhancements along with a whole [wiki](https://github.com/aflacc/ProjectFNF/wiki) which can help the user make their own mod. To Begin coding with ProjectFNF, follow this guide I created [Here](https://github.com/aflacc/ProjectFNF/wiki/Setup-Workspace). ~~Interested in trying the beta? Click [here](https://github.com/aflacc/ProjectFNF/blob/master/beta.md)~~
 ***
 
 [Changelog](https://github.com/aflacc/ProjectFNF/releases)
@@ -52,7 +51,7 @@ ProjectFNF is a engine for Friday Night Funkin' designed to be flexible. It cont
 | Modcharting support for Windows | Yes  |  Yes | 
 | Modcharting support for Linux | Yes | No |
 | Modcharting support for Mac  | Yes | No |
-| Offset timing | Coming Soon! | Yes |
+| Offset timing | **No** | Yes |
 | Customizeable Keybinds | Yes |  Yes |
 | Hit Sounds | Yes | No |
 | Custom Arrow Skins | Yes | No |
@@ -62,18 +61,18 @@ ProjectFNF is a engine for Friday Night Funkin' designed to be flexible. It cont
 | Modifiers | Yes | No |
 | Downscroll | Yes | Yes |
 | Replays | No | Yes |
-| Audio Offset | Coming Soon! | Yes |
+| Audio Offset | **No** | Yes |
 | Accuracy and Grades | Yes | Yes |
 | Pause countdown | Yes | No |
 
 # Mods that use ProjecFNF
-- neo (woah)
-- VS Aflac
-- Wii Deleted You
+- neo (pre 3.0)
+- VS Aflac (pre remaster)
+- Wii Deleted You (not vs eteled)
 - VS Default
 - VS Banjo and Kazooie
 - VS Ganondorf
-- VS Cube(The facility)
+- VS Cube(The facility) (???)
 - Test Modchart (AKA High effort Test)
 - Doodles Modchart (AKA High effort Doodles)
 
